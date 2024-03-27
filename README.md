@@ -21,6 +21,7 @@ Serving the HTML pages.
 Testing the webserver.
 
 ## PROGRAM:
+```
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -127,7 +128,7 @@ Testing the webserver.
   </div>
 </body>
 </html>
-
+```
 ## OUTPUT:
 ![alt text](image.png)
 
